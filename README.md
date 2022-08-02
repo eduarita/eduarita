@@ -36,6 +36,10 @@
 -->
 
 <!--
+https://media.giphy.com/media/sCPGYa9EAeTFC/giphy.gif
+-->
+
+<!--
 **eduarita/eduarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -48,4 +52,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: educastro2610@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!-- Badges 
+
+https://dev.to/envoy_/150-badges-for-github-pnk#blog
 -->
