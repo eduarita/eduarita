@@ -1,4 +1,4 @@
-<h1 align="center">Hey everyone 👋, I'm Eduardo Castro</h1>
+<h2 align="center">Hey everyone 👋, I'm Eduardo Castro</h2>
 <h5 align="center"><small>Systems engineering student</small></h5>
 
 <br>
@@ -19,7 +19,7 @@
 > ⚠️ NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats. 
 
 <div style="display: inline_block">
-<h2>Languages</h2>
+<h3>Languages</h3>
 <!--
 <img align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -31,12 +31,17 @@
 </div>
 
 <!--
+<h3>I'm very passionate about video games, so you can find me here:</h3?
+<a href=" " target="blank"><img align="center" height="30" src="https://static.wikia.nocookie.net/leagueoflegendsoficial/images/8/8c/LOL_Logo.png/revision/latest?cb=20180119195439&path-prefix=es"/></a>
+-->
+
+<!--
 **eduarita/eduarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning: React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
