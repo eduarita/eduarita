@@ -27,10 +27,13 @@
 <img align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 -->
-<img align="center" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
-<img align="center" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
-<img align="center" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-<img align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <div style="display: flex; ">
+  <img align="center" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+  <img align="center" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+  <img align="center" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  </div>
+
   
                    
 <img align="right" width=250 src="https://media.giphy.com/media/YWUpVw86AtIbe/giphy.gif"/>
