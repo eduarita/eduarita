@@ -11,7 +11,7 @@
 
 <!-- Github Stats-->
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarita&layout=compact&custom_title=🔥%20Most%20Used%20Languages%20🔥&theme=dark&langs_count=8&hide_border=true&bg_color=DEG,c31432,240b36&text_color=fafafa&border_radius=20"/> <!--Ui Gradients: Witching Hour-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarita&langs_count=6&layout=compact&custom_title=🔥%20Most%20Used%20Languages%20🔥&theme=dark&langs_count=8&hide_border=true&bg_color=DEG,c31432,240b36&text_color=fafafa&border_radius=20"/> <!--Ui Gradients: Witching Hour-->
 </div>
 
 <!-- bg_color=DEG,0F2027,203A43,2C5364 ;border_color=651ba1&bg_color=130f40 -->
